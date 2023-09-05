@@ -6,7 +6,7 @@
 }
 
 body{
-    /* background-color:#222; black */
+    background-color:#222;/* black*/
     background-color: while;
 }
 
@@ -15,7 +15,7 @@ body{
     max-width:470px;
     background: linear-gradient(130deg, #00feba, #5b548a);
     color: #fff;
-    margin: 40px 10px 0;
+    margin: 40px 10px 0 10px;
     padding:40px 35px;
     text-align:center;
     border-radius: 20px;
@@ -23,7 +23,7 @@ body{
 
 .search{
     margin:20px;
-    /* width:100%; */
+    width:100%;
     display:flex;
     justify-content: space-between;
     align-items: center;
