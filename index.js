@@ -59,6 +59,7 @@ async function weatherData(city){
     document.querySelector(".weather").style.display = "block";
     document.querySelector(".search input").value = ""; //clear the input field
     document.querySelector(".error").style.display = "none";
+    // document.querySelector(".card").style.margin = "50px auto ";
     }
     
 
