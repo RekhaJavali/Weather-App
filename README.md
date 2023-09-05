@@ -6,4 +6,11 @@
 
 -In this weather app we will add one search box where user can enter the city name and get the weather information of the particular city.
 
+-##Home
+![Alt text](Weather_app_home.PNG)
+
+-##Search result
 ![Alt text](Weather_app.PNG)
+
+-##Error Result
+![Alt text](Weather_app_error.PNG)
