@@ -10,9 +10,11 @@
 ![Alt text](Weather_app_home.PNG)
 
 <br />
-## Search result
+
+## Search Result
 ![Alt text](Weather_app.PNG)
 
 <br />
+
 ## Error Result
 ![Alt text](Weather_app_error.PNG)
